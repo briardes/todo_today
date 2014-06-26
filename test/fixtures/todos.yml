@@ -7,10 +7,5 @@ one:
 
 two:
   name: MyString
-  due_date: 2014-06-25
-  completed: false
-
-three:
-  name: MyString
   due_date: 2014-06-24
   completed: false

@@ -17,7 +17,7 @@ class TodoTest < ActiveSupport::TestCase
   end
 
   test 'test that todo method late? works' do
-    todo = todos(:three)
+    todo = todos(:two)
     assert_equal true, todo.late?
   end
 end
